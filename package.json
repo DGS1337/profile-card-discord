@@ -1,0 +1,22 @@
+{
+  "name": "profile-card-by-domin",
+  "version": "1.0.0",
+  "description": "My profile card<3",
+  "main": "index.js",
+  "author": "Domin",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm install && tsc && node .",
+    "build": "tsc",
+    "test": "node ."
+  },
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.7.6",
+    "@types/serve-favicon": "^2.5.3",
+    "express": "^4.17.2",
+    "serve-favicon": "^2.5.0",
+    "typescript": "^4.7.4"
+  },
+  "keywords": []    
+}
