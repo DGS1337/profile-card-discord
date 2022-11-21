@@ -31,7 +31,7 @@ thisListOfHTMLtags
 This project can be installed using:
 
 ```bash
-git clone https://github.com/Domin-MND/profile-card
+git clone https://github.com/DGS1337/profile-card-discord
 ```
 
 ### Start
